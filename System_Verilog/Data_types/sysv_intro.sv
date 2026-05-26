@@ -14,4 +14,4 @@ initial begin
   $display ("%b",data);
 end 
 endmodule  
- 
+ ///////////////////// Just to show that how data specification works differently from verilog
