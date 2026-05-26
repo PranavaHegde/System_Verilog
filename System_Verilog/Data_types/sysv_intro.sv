@@ -10,7 +10,7 @@ initial begin
   $display ("%b",data);
   data = 'x;
   $display ("%b",data);
-  data = '1;  //'10;
+  data = 'b10; //'1;  //'10;
   $display ("%b",data);
 end 
 endmodule  
